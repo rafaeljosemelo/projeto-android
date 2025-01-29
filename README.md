@@ -1,2 +1,3 @@
-# projeto-site-android
- Site desenvolvido no curso do Prof. Gustavo Guanabara.
+# Site do Sistema Android
+
+Projeto desenvolvido no curso do Prof. Gustavo Guanabara.
